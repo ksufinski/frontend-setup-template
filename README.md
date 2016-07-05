@@ -6,8 +6,6 @@ SCSS,JSmin
 setup dependencies
 
 ```
-#!npm
-
 npm install
 ```
 
@@ -15,7 +13,5 @@ npm install
 and then to local serve
 
 ```
-#!npm
-
-npm install
+npm start
 ```
