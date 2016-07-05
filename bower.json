@@ -1,0 +1,23 @@
+{
+  "name": "lira-pub",
+  "description": "custom UI for lira-publisher website",
+  "main": "index.js",
+  "authors": [
+    "Ksufinski",
+    "Riddlegun"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build/script",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tether": "^1.3.2",
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}

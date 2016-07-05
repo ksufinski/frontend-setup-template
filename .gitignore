@@ -1,0 +1,17 @@
+### AppceleratorTitanium template
+# Build folder and log file
+build.log
+### Example user template template
+### Example user template
+
+node_modules
+build
+src/script/bootstrap
+src/script/jquery
+src/script/tether
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
