@@ -1,19 +1,14 @@
 {
-  "name": "lira-pub",
+  "name": "name",
   "version": "1.0.0",
-  "description": "custom UI for lira-publisher website ",
+  "description": "descr",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp clean && bower install && gulp"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://ksufinski@bitbucket.org/ksufinski/lira-pub.git"
-  },
+  }
   "author": "Ksufinski, Riddlegun",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/ksufinski/lira-pub#readme",
   "devDependencies": {
     "bower": "^1.7.9",
     "browser-sync": "^2.13.0",
